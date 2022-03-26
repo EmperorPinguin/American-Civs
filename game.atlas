@@ -1,0 +1,391 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Chapultepec Castle
+  rotate: false
+  xy: 620, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coffee Hacienda
+  rotate: false
+  xy: 1036, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Criollo Cannon
+  rotate: false
+  xy: 1452, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fazenda
+  rotate: false
+  xy: 212, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Folkloric Comparse
+  rotate: false
+  xy: 1252, 396
+  size: 190, 202
+  orig: 190, 202
+  offset: 0, 0
+  index: -1
+BuildingIcons/Latinity School
+  rotate: false
+  xy: 420, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Peruvian Restaurant
+  rotate: false
+  xy: 4, 40
+  size: 159, 150
+  orig: 159, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Saltpeter Office
+  rotate: false
+  xy: 1044, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Street Carnival
+  rotate: false
+  xy: 1044, 398
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tango Dance Theatre
+  rotate: false
+  xy: 1252, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Argentina
+  rotate: false
+  xy: 1868, 914
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Bolivia
+  rotate: false
+  xy: 1460, 706
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Brazil
+  rotate: false
+  xy: 420, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Chile
+  rotate: false
+  xy: 171, 90
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Colombia
+  rotate: false
+  xy: 528, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mexico
+  rotate: false
+  xy: 636, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Paraguay
+  rotate: false
+  xy: 744, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Peru
+  rotate: false
+  xy: 852, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Venezuela
+  rotate: false
+  xy: 1868, 806
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cocoa
+  rotate: false
+  xy: 1568, 706
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coffee
+  rotate: false
+  xy: 828, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rubber
+  rotate: false
+  xy: 4, 614
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cocoa
+  rotate: false
+  xy: 1460, 670
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 420, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee+Plantation
+  rotate: false
+  xy: 171, 54
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle Hills
+  rotate: false
+  xy: 1460, 630
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rubber
+  rotate: false
+  xy: 1824, 774
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rubber+Lumber mill
+  rotate: false
+  xy: 1976, 910
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Aca Yboty
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Arpia
+  rotate: false
+  xy: 1976, 986
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Colorado
+  rotate: false
+  xy: 1176, 362
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Criollo Cannon
+  rotate: false
+  xy: 1784, 778
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/First of Line
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gaucho
+  rotate: false
+  xy: 1976, 950
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Liberator Scuadron
+  rotate: false
+  xy: 1500, 670
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Llanero
+  rotate: false
+  xy: 420, 214
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Patriot Army
+  rotate: false
+  xy: 460, 254
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peruvian Legion
+  rotate: false
+  xy: 211, 54
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pracinha
+  rotate: false
+  xy: 1176, 326
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rabona
+  rotate: false
+  xy: 1784, 742
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/201 Scuadron
+  rotate: false
+  xy: 4, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Aca Yboty
+  rotate: false
+  xy: 412, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Arpia
+  rotate: false
+  xy: 4, 198
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Colorado
+  rotate: false
+  xy: 1244, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Criollo Cannon
+  rotate: false
+  xy: 1660, 814
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/First of Line
+  rotate: false
+  xy: 279, 90
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gaucho
+  rotate: false
+  xy: 212, 198
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Liberator Scuadron
+  rotate: false
+  xy: 420, 398
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Llanero
+  rotate: false
+  xy: 628, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Patriot Army
+  rotate: false
+  xy: 628, 398
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Peruvian Legion
+  rotate: false
+  xy: 836, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pracinha
+  rotate: false
+  xy: 960, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rabona
+  rotate: false
+  xy: 836, 398
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Rurales
+  rotate: false
+  xy: 1068, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+unitPromotionIcons/Ignore terrain cost
+  rotate: false
+  xy: 1676, 706
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

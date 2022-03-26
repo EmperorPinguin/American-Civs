@@ -1,0 +1,57 @@
+[
+	// Changes
+//{
+//		"name": "Cattle",
+//		"resourceType": "Bonus",
+//		"terrainsCanBeFoundOn": ["Grassland", "Plains"],
+//		"food": 1,
+//		"improvement": "Pasture",
+//		"improvementStats": {"production": 1},
+//		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
+//                        "Generated on every [12] tiles <in [Featureless] [Plains] tiles>"]
+//	},
+//	{
+//		"name": "Sheep",
+//		"resourceType": "Bonus",
+//		"terrainsCanBeFoundOn": ["Hill", "Plains"],
+//		"food": 1,
+//		"improvement": "Pasture",
+//		"improvementStats": {"food": 1},
+//		"uniques": ["Generated on every [15] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+//                       "Generated on every [12] tiles <in [Featureless] [Plains] tiles>",
+//					"Generated on every [12] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
+//	},
+	// New
+{
+		"name": "Cocoa", 
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"food": 1,
+		"gold": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"gold": 2},
+            "uniques": ["Generated on every [10] tiles <in [Jungle] tiles>"]
+	},
+{
+          	"name": "Coffee", 
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill", "Forest"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"improvementStats": {"food": 1, "culture": 1},
+            "uniques": ["Generated on every [50] tiles <in [Grassland] [Hill] tiles>", 
+                        "Generated on every [70] tiles <in [Plains] [Hill] tiles>",
+                        "Doesn't generate naturally <in [Tundra] [Hill] tiles>",
+                        "Doesn't generate naturally <in [Desert] [Hill] tiles>"
+]
+	},
+{
+		"name": "Rubber", 
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle"],
+		"production": 1,
+		"improvement": "Camp",
+		"improvementStats": {"food": -1, "production": 2},
+            "uniques": ["Generated on every [10] tiles <in [Jungle] tiles>"]
+	},
+]
