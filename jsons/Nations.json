@@ -81,7 +81,7 @@
 		"innerColor": [255,223,0],
 
                 "startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 
 		"startIntroPart1": "Hail to the great emperor of Brazil, the great nation born from Portugeuse and natives. The grand nation of Brazil was built upon the Portuguese use of slaves, but at difference with others, they integrated them into their culture, the Portuguese language. Together, mestizos and natives, got themselves independence from Portugal and formed the Empire of Brazil. With cunning diplomacy, fierce force, and resource abundance, Brazil managed to become one of the best in Latin America, with all his resources and culture, certainly they are powerful.",
@@ -113,7 +113,29 @@
                             "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
 
         },
-	{
+{
+		"name": "Canada",
+		"leaderName": "John A. MacDonald",
+		"adjective": ["Canadian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Diplomatic",
+                "startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome to Canada. As their first Prime Minister, I give you my warmest welcome.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 0, 0],
+                "favoredReligion": "Christianity",
+		"uniqueName": "From Sea to Sea",
+		"uniques": ["[+3 Culture] [in all cities] <with [1] to [6] neighboring [Tundra] tiles>", "[+3 Culture] [in all cities] <with [1] to [6] neighboring [Lakes] tiles>"],
+		"cities": ["Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Winnipeg","Quebec City","Hamilton","Kitchener","Laval","London","Victoria","Halifax","Oshawa","Windsor","Saskatoon","St. Catharines","Regina","St. John's","Kelowna"]
+	},
+{
 		"name": "Colombia",
 		"leaderName": "Paula Santander",
 		"adjective": ["Colombians"],
@@ -271,7 +293,7 @@
 		"innerColor": [0,56,168],
 
 		"startBias": ["River","Plains","Forest"],
-    		"preferredVictoryType": "Diplomatic",
+    		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Good day you may have. You now lead the firm nation of Paraguay. Paraguay faced many rivals wanting him dead, but they survived, - leading many to think they dont actually exist - no matter how big it was, they survived. From, winning to Spanish Empire, to battling agaist a triple alliance of might, to defeating Bolivia in the Chaco War, little Paraguay has proven capable of facing anything and anyone, and having success in the process.",
@@ -307,7 +329,7 @@
 		"innerColor": [255,255,255],
 
 		"startBias": ["Hill","Coast"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 	        
 	        "startIntroPart1": "Mr. President, welcome. Has you know, you lead the great, ancient, cultural nation of the Peru. The nations dates back to the mighty Incas, after being colonised. The colony was one of the major ones for the spanish - and that wasn't for no reason -. The ungrateful spaniards wasted all the money, increased taxes, and combined with many other things, Peru rebelled. After a failed attempt, the joint effort of Simon Bolivar, and most importantly, San Martin, gave the freedom to the Peruvians, which continued to exploit their mineral riches, and culture abundance.",

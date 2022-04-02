@@ -4,4 +4,8 @@
 		"name": "Ignore terrain cost",
 		"uniques": ["Ignores terrain cost"]
 	},
+{
+		"name": "Mounties ability",
+		"uniques": ["Double movement in [Forest]", "[+1] Sight"]
+	},
 ]

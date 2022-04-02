@@ -1,1 +1,6 @@
-{lastUpdated:2022-03-16T20:05:37Z,modUrl:"https://github.com/ArchDuque-Pancake/Latin-American_Civs",author:ArchDuque-Pancake,modSize:2297,constants:{}}
+{
+    "constants": {
+	"minimalCityDistance": 2,
+	"minimalCityDistanceOnDifferentContinents": 1,
+    }
+}

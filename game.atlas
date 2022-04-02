@@ -34,7 +34,7 @@ BuildingIcons/Fazenda
   index: -1
 BuildingIcons/Folkloric Comparse
   rotate: false
-  xy: 1252, 396
+  xy: 1460, 396
   size: 190, 202
   orig: 190, 202
   offset: 0, 0
@@ -42,6 +42,13 @@ BuildingIcons/Folkloric Comparse
 BuildingIcons/Latinity School
   rotate: false
   xy: 420, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Maple Farm
+  rotate: false
+  xy: 628, 398
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -55,21 +62,21 @@ BuildingIcons/Peruvian Restaurant
   index: -1
 BuildingIcons/Saltpeter Office
   rotate: false
-  xy: 1044, 606
+  xy: 1252, 606
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Street Carnival
   rotate: false
-  xy: 1044, 398
+  xy: 1252, 398
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Tango Dance Theatre
   rotate: false
-  xy: 1252, 606
+  xy: 1460, 606
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -83,7 +90,7 @@ NationIcons/Argentina
   index: -1
 NationIcons/Bolivia
   rotate: false
-  xy: 1460, 706
+  xy: 1668, 706
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -95,51 +102,58 @@ NationIcons/Brazil
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Chile
+NationIcons/Canada
   rotate: false
   xy: 171, 90
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Colombia
+NationIcons/Chile
   rotate: false
   xy: 528, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Mexico
+NationIcons/Colombia
   rotate: false
   xy: 636, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Mexico
+  rotate: false
+  xy: 960, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Paraguay
   rotate: false
-  xy: 744, 290
+  xy: 1068, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Peru
   rotate: false
-  xy: 852, 290
+  xy: 1176, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Venezuela
   rotate: false
-  xy: 1868, 806
+  xy: 1668, 598
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Cocoa
   rotate: false
-  xy: 1568, 706
+  xy: 279, 90
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -160,42 +174,42 @@ ResourceIcons/Rubber
   index: -1
 TileSets/FantasyHex/Tiles/Cocoa
   rotate: false
-  xy: 1460, 670
+  xy: 420, 254
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coffee
   rotate: false
-  xy: 420, 250
+  xy: 171, 50
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Coffee+Plantation
   rotate: false
-  xy: 171, 54
+  xy: 1392, 362
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Jungle Hills
   rotate: false
-  xy: 1460, 630
+  xy: 460, 250
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber
   rotate: false
-  xy: 1824, 774
+  xy: 500, 250
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Rubber+Lumber mill
   rotate: false
-  xy: 1976, 910
+  xy: 1776, 702
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -216,70 +230,70 @@ TileSets/FantasyHex/Units/Arpia
   index: -1
 TileSets/FantasyHex/Units/Colorado
   rotate: false
-  xy: 1176, 362
+  xy: 1776, 778
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Criollo Cannon
   rotate: false
-  xy: 1784, 778
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/First of Line
   rotate: false
-  xy: 44, 4
+  xy: 1976, 950
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gaucho
   rotate: false
-  xy: 1976, 950
+  xy: 420, 218
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Liberator Scuadron
   rotate: false
-  xy: 1500, 670
+  xy: 211, 54
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Llanero
   rotate: false
-  xy: 420, 214
+  xy: 1392, 326
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Patriot Army
   rotate: false
-  xy: 460, 254
+  xy: 1776, 742
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Peruvian Legion
   rotate: false
-  xy: 211, 54
+  xy: 1816, 778
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pracinha
   rotate: false
-  xy: 1176, 326
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rabona
   rotate: false
-  xy: 1784, 742
+  xy: 1976, 914
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -321,7 +335,7 @@ UnitIcons/Criollo Cannon
   index: -1
 UnitIcons/First of Line
   rotate: false
-  xy: 279, 90
+  xy: 744, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -347,44 +361,58 @@ UnitIcons/Llanero
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Patriot Army
-  rotate: false
-  xy: 628, 398
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Peruvian Legion
+UnitIcons/Mounties
   rotate: false
   xy: 836, 606
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Pracinha
+unitPromotionIcons/Mounties ability
   rotate: false
-  xy: 960, 290
-  size: 100, 100
-  orig: 100, 100
+  xy: 836, 606
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Rabona
+UnitIcons/Patriot Army
   rotate: false
   xy: 836, 398
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Peruvian Legion
+  rotate: false
+  xy: 1044, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Pracinha
+  rotate: false
+  xy: 1284, 290
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rabona
+  rotate: false
+  xy: 1044, 398
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Rurales
   rotate: false
-  xy: 1068, 290
+  xy: 1868, 806
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 unitPromotionIcons/Ignore terrain cost
   rotate: false
-  xy: 1676, 706
+  xy: 852, 290
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
