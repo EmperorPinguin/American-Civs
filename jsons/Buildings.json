@@ -108,6 +108,17 @@
 		"uniques": ["Unlocked with [Oligarchy]", "[+3 Culture] <after discovering [Military Science]>"],	
 	},
 {
+		"name": "Criollo Cannon",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Paraguay",
+		"cost": 145,
+		"culture": 1,
+		"cityStrength": 10,
+		"isNationalWonder": true,
+		"uniques": ["Unlocked with [Oligarchy]", "Requires a [Barracks] in all cities", "All newly-trained [relevant] units [in this city] receive the [Besiege] promotion", 
+                        "[+3 Culture] <after discovering [Military Science]>", "Cost increases by [10] per owned city"],
+	},
+{
 		"name": "Coffee Hacienda",
 		"requiredTech": "Guilds",
 		"uniqueTo": "Colombia",
