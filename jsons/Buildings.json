@@ -102,10 +102,10 @@
 		"name": "Criollo Cannon",
 		"cost": 100,
 		"isNationalWonder": true,
-		"maintenance": 1,
+		"culture": 1,
 		"cityStrength": 12,
 		"uniqueTo": "Paraguay",
-		"uniques": ["Unlocked with [Oligarchy]", "[+3 Culture] <after discovering [Combined Arms]>"],	
+		"uniques": ["Unlocked with [Oligarchy]", "[+3 Culture] <after discovering [Military Science]>"],	
 	},
 {
 		"name": "Coffee Hacienda",
