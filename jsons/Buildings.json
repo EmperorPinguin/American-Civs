@@ -35,20 +35,21 @@
 		"uniqueTo": "Chile",
 		"uniques": ["Must be next to [Desert]", "[+2 Production, +2 Gold] from [Salt] tiles [in this city]"],
 	},
-	{
+{
 		"name": "Chapultepec Castle",
 		"isNationalWonder": true,
 		"cost": 145,
 		"requiredTech": "Architecture",
-		"maintenance": 2,
+		"culture": 1,
+		"maintenance": 0,
 		"greatPersonPoints": {"Great Artist": 1},
-		"cityStrength": 6,
-		"cityHealth": 30,
+		"cityStrength": 7,
+		"cityHealth": 25,
 		"uniqueTo": "Mexico",
 		"uniques": ["New [Military] units start with [10] Experience [in this city]",
-				"Provides a [Castle] in your first [4] cities for free"],
+				"Provides a [Castle] in your first [4] cities for free", "Cost increases by [10] per owned city"],
 	},
-          {
+{
             "name": "Tango Dance Theatre",
 		"replaces": "Opera House",
 		"requiredTech": "Acoustics",
@@ -56,7 +57,7 @@
 		"maintenance": 2,
             "happiness": 1,
             "culture": 5,
-		"specialistSlots": {"Artist": 2},
+		"specialistSlots": {"Artist": 1},
 		"uniqueTo": "Argentina",
 	},
 /*
@@ -89,13 +90,13 @@
 {
 		"name": "Folkloric Comparse",
 		"replaces": "Amphitheater",
-		"cost": 110,
+		"cost": 100,
 		"requiredTech": "Philosophy",
 		"requiredBuilding": "Monument",
-		"maintenance": 1,
+		"maintenance": 2,
 		"happiness": 1,
-		"culture": 4,
-		"specialistSlots": {"Artist": 2},
+		"culture": 5,
+		"specialistSlots": {"Artist": 1},
 		"greatPersonPoints": {"Great Artist": 1},
 		"uniqueTo": "Bolivia",
 	},
@@ -111,6 +112,7 @@
 		"percentStatBonus": {"culture": 33},
 		"uniqueTo": "Peru",
 	},
+/*
 {
 		"name": "Criollo Cannon",
 		"cost": 100,
@@ -120,6 +122,7 @@
 		"uniqueTo": "Paraguay",
 		"uniques": ["Unlocked with [Oligarchy]", "[+3 Culture] <after discovering [Military Science]>"],	
 	},
+*/
 {
 		"name": "Criollo Cannon",
 		"replaces": "Heroic Epic",
