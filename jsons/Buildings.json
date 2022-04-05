@@ -112,17 +112,6 @@
 		"percentStatBonus": {"culture": 33},
 		"uniqueTo": "Peru",
 	},
-/*
-{
-		"name": "Criollo Cannon",
-		"cost": 100,
-		"isNationalWonder": true,
-		"culture": 1,
-		"cityStrength": 12,
-		"uniqueTo": "Paraguay",
-		"uniques": ["Unlocked with [Oligarchy]", "[+3 Culture] <after discovering [Military Science]>"],	
-	},
-*/
 {
 		"name": "Criollo Cannon",
 		"replaces": "Heroic Epic",
